@@ -1,0 +1,7 @@
+Rental Invoice
+Customer: Nilesh Jha
+Equipment: Velvet Table Cloth (2 units)
+Rental Date: 2023-09-28 20:50:09.989433
+Return Date: 2023-10-03 20:50:09.989433
+Total Amount: $16.00
+

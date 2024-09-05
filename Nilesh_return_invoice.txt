@@ -1,0 +1,6 @@
+Return Invoice
+Customer: Nilesh
+Equipment: Velvet Table Cloth
+Return Date: 2023-09-28 20:54:27.833933
+Total Amount: $0.00
+

@@ -1,0 +1,7 @@
+Rental Invoice
+Customer: Man
+Equipment: Microphone Set (5 units)
+Rental Date: 2023-09-28 21:57:00.291478
+Return Date: 2023-10-03 21:57:00.291478
+Total Amount: $945.00
+
